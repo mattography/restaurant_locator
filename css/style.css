@@ -21,12 +21,12 @@ label
 .submit-btn {
 	width: 54px;
 	height: 20px;
-	background: #743 url(http://www.roscripts.com/images/submit.gif) no-repeat;
+	background: #743 ;
 	outline: none;
 	float:right;
 }
 .submit-btn:hover {
-	background: #069 url(http://www.roscripts.com/images/submit.gif) no-repeat 0 -20px;
+	background: #069 ;
 }
 div#container {
 	border:1px solid #99b3b4;
